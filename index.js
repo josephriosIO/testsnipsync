@@ -1,5 +1,5 @@
-// @@@START hellouniverse
+// @@@SNIPSTART hellouniverse
 function HelloUniverse() {
   console.log("Hello universe!");
 }
-// @@@END
+// @@@SNIPEND
